@@ -1,4 +1,4 @@
-# Big-Data-Integration-and-Analytics-with-PostgreSQL-Hadoop-PySpark-and-Hive-
+# Big-Data-Integration-with-PostgreSQL-Hadoop-PySpark-and-Hive-
 Here's a brief overview of what I accomplished:
 
 🔹 Project Goals:
